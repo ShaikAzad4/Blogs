@@ -1,4 +1,4 @@
-#Day1:slightly_smiling_face:
+#Day1
 The AI landscape just shifted again.
 In the last few weeks, the "Big Four" have essentially redefined what we thought LLMs were capable of. We aren’t just looking at smarter chatbots anymore; we are moving into the era of Agentic AI.
 
